@@ -9,6 +9,7 @@ It seems it is working :)
 ## Links
 - Open AI api key usage: https://beta.openai.com/account/usage
 - Create Open AI api key: https://beta.openai.com/account/api-keys
+- Open AI Python module https://beta.openai.com/docs/libraries/python-bindings
 - Discord dev https://discord.com/developers/applications
 - Open API words to tokens calculation https://beta.openai.com/tokenizer
 - Open API documentation for completions/create method https://beta.openai.com/docs/api-reference/completions/create
